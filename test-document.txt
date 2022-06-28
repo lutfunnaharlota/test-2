@@ -1,0 +1,8 @@
+BRS vs SRS
+In this section, we are going to discuss the difference between BRS and SRS and see a brief introduction between them.
+
+The BRS and SRS are the most important documents to develop any project or software. These types of the document contain the in-depth details of the particular software.
+
+In software testing, BRS and SRS types of document requirements depend upon business type, their standards, how company processes, and what class of software is to be developed.
+
+Before we understood the difference between BRS and SRS, we will look into the difference between requirement and specification.
